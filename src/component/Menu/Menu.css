@@ -1,0 +1,21 @@
+.menuItem {
+  margin: 10px;
+}
+
+menuitem a,
+a:hover,
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: #fff;
+}
+
+.menuLink {
+  color: #fff;
+}
+
+.isActive,
+a:hover {
+  color: #ffdf44;
+}

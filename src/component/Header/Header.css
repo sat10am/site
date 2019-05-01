@@ -1,0 +1,22 @@
+.headerWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #fff;
+  background-color: #282c34;
+  padding: 10px;
+  width: 100vh;
+  z-index: 100;
+}
+
+.logo {
+  width: 150px;
+  height: 50px;
+  background-color: #ffdf44;
+  border-radius: 10px;
+}
+
+.logo:hover {
+  background-color: #fff;
+}
